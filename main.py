@@ -68,6 +68,4 @@ class SuperStrike(Player):
         super().__init__(strike, defender, midfielder, goalkeeper)
         self.tough = tough
 
-class SuperDefender(Player):
-    def __init__(self, strike, defender, midfielder, goalkeeper, hard):
-        super().__init__(strike,)
+
