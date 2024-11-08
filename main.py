@@ -40,20 +40,7 @@
 # print(Calculate.summary(2, 4))
 
 
-# class Rectangle:
-#     def __init__(self, width, height):
-#         self.width = width
-#         self.height = height
-#
-#     @property
-#     def area(self):
-#         return self.width * self.height
-#
-# rectagle = Rectangle(4, 5)
-# print(rectagle.area)
-#
-# rectagle.width = 6
-# print(rectagle.area)
+
 
 
 class Player:
